@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "learnmcp": {
+      "type": "stdio",
+      "command": "npx",
+      "args": ["tsx", "src/server.ts"],
+      "cwd": "d:\\PRJ_presonal\\tuvi"
+    }
+  }
+}
